@@ -1,7 +1,15 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Low Light Image Enhancement
 ___
 
-## Please refer the instructions in below URL:
+## Overview
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+Low-light image enhancement focuses on improving the quality of images captured in
+ poorly lit conditions, addressing issues like low visibility, noise, and poor contrast.
+
+# Team
+-  E/20/316, Wethmi Ranasinghe, [e20316@eng.pdn.ac.lk](mailto:e20316@eng.pdn.ac.lk)
+-  E/20/122, Rashmi Gunathilake, [e20122@eng.pdn.ac.lk](mailto:e20122@eng.pdn.ac.lk)
+-  E/20/178, Dulanga Jayawardena, [e20178@eng.pdn.ac.lk](mailto:e20178@eng.pdn.ac.lk)
+-  E/20/148, Kasundie Hewawasam, [e20148@engdn.ac.lk](mailto:e20148@eng.pdn.ac.lk)
+
