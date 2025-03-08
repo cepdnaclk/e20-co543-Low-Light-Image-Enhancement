@@ -24,4 +24,4 @@ Run demo.py file
 ## Output
 Low Light Image             |  Enhanced Image
 :-------------------------:|:-------------------------:
-![](demo/1.png)  |  ![](demo/enhanced/1_DUAL_g0.6_l0.15.png)
+![](demo/1.png)  |  ![](demo/Enhanced/1_DUAL_g0.6_l0.15.png)
