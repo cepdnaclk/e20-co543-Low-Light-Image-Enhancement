@@ -42,7 +42,7 @@ def main(args):
         enhanced_image_bgr = enhance_image_exposure(image, args.gamma, args.lambda_, not args.lime,
                                                 sigma=args.sigma, bc=args.bc, bs=args.bs, be=args.be, eps=args.eps)
         enhanced_image_rgb = cv2.cvtColor(enhanced_image_bgr, cv2.COLOR_BGR2RGB)
-        final_output = enhance_with_dlee(image)
+        final_output = enhance_with_dlee(enhanced_image_rgb)
 
         filename = basename(files[i])
         name, ext = splitext(filename)
